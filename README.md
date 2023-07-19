@@ -8,5 +8,5 @@ At the end, we test our  model on new data and we reach impresive accurcay rates
 
 
 ### Links to h5 files
-For download  SynthText.h5 file, click  [here ](https://drive.google.com/file/d/1QAZCBHScr547_l64GeTBMOP0dIWUwc_1/view?usp=drive_link)
+For download  SynthText.h5 file, click  [here ](https://drive.google.com/file/d/1QAZCBHScr547_l64GeTBMOP0dIWUwc_1/view?usp=drive_link) <br />
 you also can directly download adaptedImage.h5 from [here ](https://drive.google.com/file/d/12VuA-Yv4YcjiszoI3G6eGp9PD3d4QVev/view?usp=drive_link)
