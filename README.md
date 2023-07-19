@@ -24,3 +24,6 @@ Second, run the "evaluation.ipynb" file to train the model on the training datas
 ### Links to h5 files
 To download the SynthText.h5 file, click  [here ](https://drive.google.com/file/d/1QAZCBHScr547_l64GeTBMOP0dIWUwc_1/view?usp=drive_link) <br />
 You can also directly download the adaptedImage.h5 from [here ](https://drive.google.com/file/d/12VuA-Yv4YcjiszoI3G6eGp9PD3d4QVev/view?usp=drive_link)
+
+
+![image](https://github.com/davyeu/Font-Recognition-by-CNN/assets/37835891/d64141c1-ee79-4371-9201-2d1789e3992a)
